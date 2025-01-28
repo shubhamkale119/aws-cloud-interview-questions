@@ -12,7 +12,7 @@
 - Memory optimize: This instance is designed for when you require high memory usage
 - Storage optimize: It is used when we require the high storage capacity
 
-# what is Ec2 user data
+# What is Ec2 user data
 - The commands Start when ec2 instnce get launch
 - This is basically script which run when ec2 instance get launch
 - Bootstraping means launching commands when ec2 instance get launch 

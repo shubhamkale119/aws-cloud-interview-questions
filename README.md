@@ -33,4 +33,8 @@
 
 # Elastic Load Balancer
 - It is a managed load balancer
-- It distribute traffic to multiple instances 
+- It distribute traffic to multiple instances
+
+# Auto Scaling Group
+- Create first launch template for AMI which has took backup from ec2 instance
+- Create ASG and then add that launch template and define desired maximum and minimum instance number

@@ -32,4 +32,5 @@
 - Load balancer distribute load to multiple ec2 instances
 
 # Elastic Load Balancer
-- It is a managed load balancer 
+- It is a managed load balancer
+- It distribute traffic to multiple instances 

@@ -38,3 +38,14 @@
 # Auto Scaling Group
 - Create first launch template for AMI which has took backup from ec2 instance
 - Create ASG and then add that launch template and define desired maximum and minimum instance number
+
+# S3 (Simple Storage Service)
+ S3 Security
+- User based
+  - IAM Policy
+- Resource Based
+  - Bucket policy
+  - Object Access Control List (ACL)
+  - Bucket Access Control List (ACL)
+ 
+- For accessing the data present in the bucket you need to disable public access and and add bucket policy to the bucket

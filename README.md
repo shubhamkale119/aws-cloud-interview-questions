@@ -49,4 +49,5 @@
   - Bucket Access Control List (ACL)
  
 - For accessing the data present in the bucket you need to disable public access and and add bucket policy to the bucket
-- We can host a static website on s3 bucket 
+- We can host a static website on s3 bucket
+- After uploading the index.html we need to enable 

@@ -51,3 +51,6 @@
 - For accessing the data present in the bucket you need to disable public access and and add bucket policy to the bucket
 - We can host a static website on s3 bucket
 - After uploading the index.html we need to enable statis website hosting which present in the properties of aws
+
+
+# S3 storage classes

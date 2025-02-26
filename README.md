@@ -54,3 +54,9 @@
 
 
 # S3 storage classes
+- Amazon S3 Standard - general purpose
+- Amazon S3 standard  - infrequent access
+- Amazon S3 One Zone-Infrequent Access (IA)
+- Amazon S3 intelligent Tiering
+- Amazon Glacier
+- Amazon Glacier Deep Archive

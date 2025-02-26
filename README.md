@@ -60,3 +60,13 @@
 - Amazon S3 intelligent Tiering
 - Amazon Glacier
 - Amazon Glacier Deep Archive
+
+# S3 Durability and Availability
+- Durability : Durability means how often we lose a file
+- 99.999999999% High availabilty objects across multiple avalilabilty zone
+
+Availability on s3 standard 
+- 99.99 % availability which means in a year for 53 minutes the the data will not available 
+
+![image](https://github.com/user-attachments/assets/8d5aa31e-c229-4bec-b184-d599220b9def)
+

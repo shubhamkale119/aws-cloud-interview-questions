@@ -83,3 +83,6 @@ Amazon RDS
 - Multi AZ setup for DR(Disaster recovery)
 - Scaling capability
 - **But cannot SSH into your instance**
+
+# Amazon Aurora
+- Amazon Aurora is not open source

@@ -70,3 +70,16 @@ Availability on s3 standard
 
 ![image](https://github.com/user-attachments/assets/8d5aa31e-c229-4bec-b184-d599220b9def)
 
+
+
+
+# AWS Database
+
+Amazon RDS
+- Automated Provisioning, OS patching
+- Continuos backup and restore to speicific timestamp(Point to Restore)
+- Monitoring dashboard
+- Read replicas for improved read performance
+- Multi AZ setup for DR(Disaster recovery)
+- Scaling capability
+- **But cannot SSH into your instance**

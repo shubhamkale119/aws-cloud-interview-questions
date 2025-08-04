@@ -5,7 +5,7 @@
 
 
 # What is RDS instance
-- RDS Instance provide a compute power to setup, run and maintain the database on aws public cloud
+- RDS is a RElational Database Service which provides a compute power to store the database or process the database for the real time applications 
 
 # RDS instances types:
 - General Purpose: used when there is modrate traffic on compute engine

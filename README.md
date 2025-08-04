@@ -5,7 +5,8 @@
 
 
 # What is RDS instance
-- RDS is a RElational Database Service which provides a compute power to store the database or process the database for the real time applications 
+- RDS is a RElational Database Service which provides a compute power to store the relational database or process the database for the real time applications
+- We can store many databases in the with the help of RDS as we can store 
 
 # RDS instances types:
 - General Purpose: used when there is modrate traffic on compute engine
